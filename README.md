@@ -2,7 +2,7 @@
   <img src="https://cdn-icons-png.flaticon.com/256/6831/6831874.png" alt="Piedra Papel Tijera" width="120">
 </p>
 
-<h1 align="center" href=''>🎮 Piedra, Papel o Tijera</h1>
+<h1 align="center" href='https://piedra-papel-tijera-lac-tau.vercel.app/'>🎮 Piedra, Papel o Tijera</h1>
 
 <p align="center">
   <strong>Desarrollado por: Alejo Tarrio</strong><br>
